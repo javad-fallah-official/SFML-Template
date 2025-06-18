@@ -1,1 +1,2 @@
-my sfml template
+my sfml template.
+
